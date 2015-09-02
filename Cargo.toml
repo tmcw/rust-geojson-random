@@ -1,0 +1,11 @@
+[package]
+
+name = "rust-geojson-random"
+version = "0.0.1"
+authors = ["Tom MacWright <tom@macwright.org>"]
+
+[dependencies]
+geojson = "0.1.0"
+rustc-serialize = "0.3.15"
+rand = "*"
+docopt = "0.6.67"
